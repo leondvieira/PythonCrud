@@ -1,2 +1,0 @@
-# PythonCrud
-Crud Python
